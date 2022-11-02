@@ -1,2 +1,2 @@
 # Calculator
-This is javasctipt based calculator
+This file inlcudes html, css and javasctipt.
